@@ -1,0 +1,6 @@
+Age,Department,Education,Gender,JobRole,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction
+30,Sales,3,Female,Sales Executive,4200,Yes,3,3
+42,Research & Development,4,Male,Research Scientist,6800,No,11,4
+27,HR,2,Female,HR Representative,3100,Yes,2,2
+45,Sales,5,Male,Manager,9000,No,14,4
+33,Research & Development,3,Female,Laboratory Technician,4800,Yes,6,3
